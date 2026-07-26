@@ -1,0 +1,63 @@
+# EcoMap Technologies
+
+> Map, connect, and measure your entrepreneurial ecosystem. 100+ ecosystems. 250,000+ resources mapped. Trusted nationwide.
+
+EcoMap Technologies builds ecosystem intelligence software for economic development organizations, chambers of commerce, universities, arts agencies, and state and local governments. The platform turns scattered regional resource directories, referrals, and stakeholder relationships into a measurable, reportable network.
+
+## Solutions
+- [EcoMap Discover](https://ecomap.tech/solutions/discover): Resource hub & navigation. Describes the ecosystem-mapping platform and its features: collections, intelligent search, analytics and embeddable cards.
+- [Ecosystem Relationship Manager (ERM)](https://ecomap.tech/solutions/ecosystem-relationship-manager): Ecosystem relationship mgmt. Explains how organizations can track relationships, visualize networks, identify gaps and manage referrals.
+- [Ecosystem ChatBot](https://ecomap.tech/solutions/chatbot): AI-powered resource navigation. Introduces the AI assistant that answers questions and delivers relevant resources.
+- [Economic Intelligence Monitor](https://ecomap.tech/solutions/economic-intelligence-monitor): Regional benchmarking. Benchmarks regional ecosystem performance with the Economic Intelligence Monitor for economic development leaders, funders, and policymakers.
+- [Nonprofit Intelligence Dashboard](https://ecomap.tech/solutions/nonprofit-intelligence-dashboard): Nonprofit financial intelligence. Explains the Nonprofit Intelligence Dashboard for analyzing IRS financial data, sector health, funding gaps, and capacity trends across nonprofit networks.
+- [Custom Services & Solutions](https://ecomap.tech/solutions/custom-services): Explains EcoMap custom services, reports, analysis, and multi-provider project support for ecosystem teams.
+- [Solutions Overview](https://ecomap.tech/solutions): Brief introduction to EcoMap's platform and AI capabilities. Summarizes all products with links to individual product pages.
+
+## Who We Serve
+- [Economic Development](https://ecomap.tech/who-we-serve/economic-development): Regional and local agencies seeking to understand and promote resources.
+- [Chambers of Commerce](https://ecomap.tech/who-we-serve/chambers-of-commerce): Trade associations, chambers and bioscience groups wanting centralized directories and insights.
+- [Entrepreneurial Ecosystems](https://ecomap.tech/who-we-serve/entrepreneurial-ecosystems): Ecosystem builders connecting founders with the resources and relationships they need to scale.
+- [Colleges & Universities](https://ecomap.tech/who-we-serve/colleges-and-universities): Universities and innovation centers needing digital resource hubs and navigation.
+- [Arts Agencies](https://ecomap.tech/who-we-serve/arts-agencies): Arts councils and creative groups looking to support creative entrepreneurs and measure impact.
+- [Bioscience Associations](https://ecomap.tech/who-we-serve/bioscience-associations): Life-science trade groups and bioscience networks running statewide industry consortia.
+- [Industry Ecosystems](https://ecomap.tech/who-we-serve/industry-ecosystems): Industry verticals using EcoMap to centralize member directories, connect partners, and demonstrate value to sponsors.
+- [State & Local Government](https://ecomap.tech/who-we-serve/state-and-local-government): State and local government leaders mapping economic resources, measuring impact, and informing policy decisions.
+- [Audience Overview](https://ecomap.tech/who-we-serve): Introduces the range of audiences that use EcoMap, summarizing their needs and linking to dedicated persona pages.
+
+## Customer Stories
+- [Customer Stories Index](https://ecomap.tech/customer-stories): Filterable library of customer Q&A posts, success stories and case studies. Individual story pages provide more detail.
+- [Putting a regional ecosystem's full range of resources within reach of every business, at any hour, from any entry point](https://ecomap.tech/customer-stories/greater-cleveland-partnership): In partnership with EcoMap, the Greater Cleveland Partnership launched the COSE Small Business Resource Hub, powered by EcoMap Discover, to 
+- [Cincinnati's startup ecosystem gets a digital front door that connects founders to the right support at any stage](https://ecomap.tech/customer-stories/cintrifuse-cincinnati-startup-ecosystem): Cintrifuse is a public-private partnership dedicated to making Greater Cincinnati the top startup destination in the Midwest. Since 2013, th
+- [Central Okanagan Economic Development Commission](https://ecomap.tech/customer-stories/central-okanagan-business-resource-hub): Giving entrepreneurs across one of Canada's fastest-growing regions a single place to find the support available to them.
+- [Johns Hopkins Technology Ventures Pava Marie LaPere Center for Entrepreneurship](https://ecomap.tech/customer-stories/johns-hopkins-technolog-ventures-pava-center-for-entrepreneurship): Making funding opportunities easier to find for student entrepreneurs and alumni across Johns Hopkins University
+- [Building digital infrastructure for Indigenous entrepreneurship in New Mexico and the Navajo Nation](https://ecomap.tech/customer-stories/building-digital-infrastructure-for-indigenous-entrepreneurship-in-new-mexico-and-the-navajo-nation): Changing power dynamics in health and wealth Roanhorse Consulting is an Indigenous-led social enterprise based in Albuquerque, New Mexico. F
+
+## Blog
+- [Blog Index](https://ecomap.tech/blog): Landing page for all articles, with categories such as News, Guides, Event Recaps, Ecosystem Talks and Customer Q&A.
+- [Webinar Recap: The State Competitiveness Conversation - What Economic Development Leaders Need Now](https://ecomap.tech/blog/state-competitiveness-economic-development-leaders): Federal policy shifts, tariff uncertainty, and deals at unprecedented scale are reshaping state economic development. In EcoMap's latest Eco
+- [Building the Software Behind Ecosystem Intelligence with Evan Kuo](https://ecomap.tech/blog/building-the-software-behind-ecosystem-intelligence-with-evan-kuo): Software engineer Evan Kuo explains how EcoMap builds ecosystem intelligence tools that work for customers ranging from lean local ESOs to s
+- [Webinar Recap: The Future of Ecosystem Building - Honest Perspectives from the Field](https://ecomap.tech/blog/webinar-recap-the-future-of-ecosystem-building): Federal funding has shrunk, equity language has shifted, and a generation of ecosystem builders is reckoning with burnout. In EcoMap's lates
+- [The Future Belongs to Connected Communities](https://ecomap.tech/blog/connected-communities): Five lessons from ecosystem builders - and how EcoMap is helping them transform invisible work into visible impact.
+- [Webinar Recap:  Trust, Built Locally: How BBB Greater Maryland and EcoMap Are Supporting Small Business Growth in 2026](https://ecomap.tech/blog/webinar-recap-trust-built-locally-bbb): Trust remains the defining factor in business decisions, but the way it gets built and scaled has changed. BBB Greater Maryland is expanding
+
+## Newsroom & Resources
+- [Newsroom & Resources Index](https://ecomap.tech/newsroom-resources): Press releases, media kit and company announcements.
+- [McKinney's Bold Ecosystem Strategy for 400,000 Residents](https://ecomap.tech/newsroom-resources/mckinney-texas-chamber-building-texas-podcast): McKinney went from 100K to 220K people — and it's heading toward 400K. If you're tracking what's happening in Collin County, shoutout to @co
+- [The Newest Small Business Resource Hub, powered by the Council of Smaller Enterprises (COSE) and Greater Cleveland Partnership (GCP)](https://ecomap.tech/newsroom-resources/beechwood-business-podcast-greater-cleveland-partnership): In this episode of Beachwood Business Compass, Chad Hamman, Vice President of Membership and Product Development for the Greater Cleveland P
+- [Mapping the Future: How EcoMap Technologies Is Building the Digital Infrastructure for Innovation Ecosystems](https://ecomap.tech/newsroom-resources/biobuzz-mapping-the-future-how-ecomap-is-building-digital-infrastructure): BioBuzz CEO Chris Frew sat down with Smitha Gopal, COO of EcoMap Technologies, at the 2025 TEDCO Innovation Expo to discuss the company’s mi
+- [Maryland Chamber of Commerce partners with EcoMap to transform how it measures state competitiveness](https://ecomap.tech/newsroom-resources/maryland-chamber-of-commerce-partners-with-ecomap-to-transform-how-it-measures-state-competitiveness): Maryland Chamber becomes first organization to implement EcoMap's newly launched Ecosystem Scorecard Annapolis, MD [February 17, 2026] — The
+- [BBB Greater Maryland Debuts Network’s First AI-Powered Business Intelligence Suite](https://ecomap.tech/newsroom-resources/bbb-greater-maryland-debuts-networks-first-ai-powered-business-intelligence-suite): Baltimore, MD [January 27, 2026] — BBB Greater Maryland has partnered with EcoMap Technologies, an AI software company specializing in Ecosy
+
+## Company
+- [About EcoMap](https://ecomap.tech/about): Anchor page describing EcoMap's story, mission, and current initiatives.
+- [Careers](https://ecomap.tech/about/careers): Landing page for EcoMap's company culture and open positions.
+- [Channel Partners](https://ecomap.tech/channel-partners): Overview of EcoMap channel partnerships and partner collaboration opportunities.
+- [Golden Shovel Partnership](https://ecomap.tech/channel-partners/golden-shovel): Co-branded partnership page describing the EcoMap and Golden Shovel collaboration.
+- [Contact](https://ecomap.tech/contact): Primary contact page for scheduling demos and reaching the EcoMap team.
+
+## Legal
+- [Terms, Privacy & Security](https://ecomap.tech/terms): Terms, privacy, security, and cookie policy information for the public site.
+
+## Optional
+- [Sitemap (XML)](https://ecomap.tech/sitemap.xml): Full machine-readable URL list.
+- [In Memoriam — Pava LaPere](https://ecomap.tech/in-memoriam-pava-lapere): Page celebrating LaPere's life, achievements, and legacy.
